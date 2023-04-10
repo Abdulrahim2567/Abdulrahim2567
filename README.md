@@ -17,8 +17,7 @@
     <img  src="https://komarev.com/ghpvc/?username=Abdulrahim2567&style=round&color=green" alt=""/>
   </h1>
 </div>
-<div align = "left" id="header">
-  <h2> STATS</h2>
-  <div align="center">
-  </div>
+<h2> STATS</h2>
+<div align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=Abdulrahim2567&show_icons=true&theme=transparent)
 </div>
