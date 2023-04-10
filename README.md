@@ -19,5 +19,6 @@
 </div>
 <h2> STATS</h2>
 <div align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=Abdulrahim2567&show_icons=true&theme=transparent)
 </div>
+![](https://github-stats-delta.vercel.app/api?username=Abdulrahim2567&show_icons=true&theme=transparent&count_private=true)
+
