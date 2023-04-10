@@ -19,6 +19,6 @@
 </div>
 <h2> STATS</h2>
 <div align="center">
-</div>
-![](https://github-stats-delta.vercel.app/api?username=Abdulrahim2567&show_icons=true&theme=transparent&count_private=true)
 
+  ![](https://github-stats-delta.vercel.app/api?username=Abdulrahim2567&show_icons=true&icon_color=6cc644&theme=transparent&count_private=true&text_color=white&title_color=4078c0&border_color=333&ring_color=6cc644)
+</div>
