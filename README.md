@@ -18,7 +18,8 @@
   </h1>
 </div>
 <div align = "left" id="header">
-  <h2> 💻 TECH STACK</h2>
+  <h2> STATS</h2>
   <div align="center">
+    ![GitHub Streak](https://git.io/streak-stats.com?user=Abdulrahim2567&theme=transparent&border_radius=4)
   </div>
 </div>
