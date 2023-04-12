@@ -3,7 +3,7 @@
 </div>
 <div align="center" id="badges">
   <h1>
-    Hey there, I am Abdou Rahim
+    Hey there, I am Abdou Rahim! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>
     <a href="linkedin.com/in/abdou-rahim-729411246">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=round&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
