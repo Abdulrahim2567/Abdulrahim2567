@@ -13,7 +13,7 @@
       <img src="https://img.shields.io/badge/Facebook-blue?style=round&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a><br/>
     <a href="https://abdulrahim-portfolio.vercel.app">
-      <img src="https://img.shields.io/badge/My_Portfolio-black?style=round&logo=github&logoColor=white" alt="Github Badge"/>
+      <img src="https://img.shields.io/badge/My_Portfolio-purple?style=round&logo=github&logoColor=white" alt="Github Badge"/>
     </a>
     <img  src="https://komarev.com/ghpvc/?username=Abdulrahim2567&style=round&color=green" alt=""/><br>
      Hey there, I am Abdou Rahim! 
