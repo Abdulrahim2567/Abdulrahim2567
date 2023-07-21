@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="center" >
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzNjYzcyY2IxNGExODQ0NTA4MWZiNDVhMjE1ZjdmYWJjOTIzMzhmZiZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div align="center" id="badges">
@@ -16,7 +16,9 @@
     <a href="https://web.facebook.com/abdou.rahim.923">
       <img src="https://img.shields.io/badge/Facebook-blue?style=round&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a><br/>
-     Hey there, I am Abdou Rahim
+    <div  id="intro" align="center">
+      Hi there, I'm [Your Name], a passionate web developer with a love for crafting seamless user experiences. My expertise in front-end and back-end development enables me to create modern and efficient web applications. I thrive on challenges and enjoy collaborating with diverse teams to bring innovative projects to life. Let's connect and explore how I can contribute to your next web development endeavor.
+    </div>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>
   </h1>
 </div>
