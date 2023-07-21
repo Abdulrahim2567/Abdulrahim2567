@@ -28,3 +28,5 @@
   
   ![](https://github-stats-delta.vercel.app/api?username=Abdulrahim2567&show_icons=true&icon_color=6cc644&theme=transparent&count_private=true&text_color=white&title_color=4078c0&border_color=333&ring_color=6cc644)
 </div>
+
+<h1>💻 Tech Stack</h1>
