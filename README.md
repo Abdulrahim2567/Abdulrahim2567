@@ -4,7 +4,7 @@
 <div align="center" id="badges">
   <h1>
     <a href="https://abdulrahim-portfolio.vercel.app">
-      <img src="https://img.shields.io/badge/My_Portfolio-purple?style=round&logo=github&logoColor=white" alt="Github Badge"/>
+      <img src="https://img.shields.io/badge/My_Portfolio-purple?style=round&logo=vercel&logoColor=white" alt="Github Badge"/>
     </a>
     <img  src="https://komarev.com/ghpvc/?username=Abdulrahim2567&style=round&color=green" alt=""/><br>
     <a href="linkedin.com/in/abdou-rahim-729411246">
