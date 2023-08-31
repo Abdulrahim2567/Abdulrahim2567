@@ -24,7 +24,7 @@
 <h2> 📊 STATS</h2>
 <div align="center" >
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Abdulrahim2567&theme=transparent&border_radius=4&ring=6CC644&fire=6CC644&currStreakNum=585858D5&sideLabels=848588&currStreakLabel=6CC644&border=585858D5&stroke=585858D5)]
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Abdulrahim2567&theme=transparent&border_radius=4&ring=6CC644&fire=6CC644&currStreakNum=585858D5&sideLabels=848588&currStreakLabel=6CC644&border=585858D5&stroke=585858D5)(https://git.io/streak-stats)
   
   ![](https://github-stats-delta.vercel.app/api?username=Abdulrahim2567&show_icons=true&icon_color=6cc644&theme=transparent&count_private=true&text_color=white&title_color=4078c0&border_color=333&ring_color=6cc644)
 </div>
