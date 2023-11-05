@@ -6,7 +6,7 @@
     <a href="https://abdulrahim-portfolio.vercel.app">
       <img src="https://img.shields.io/badge/My_Portfolio-purple?style=round&logo=vercel&logoColor=white" alt="Vercel Badge"/>
     </a>
-       <img  src="https://komarev.com/ghpvc/?username=Abdulrahim2567&style=round&color=blueviolet" alt=""/><br>
+       <img  src="https://komarev.com/ghpvc/?username=Abdulrahim2567&style=round&color=blue" alt=""/><br>
     <a href="linkedin.com/in/abdou-rahim-729411246">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=round&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
