@@ -3,17 +3,17 @@
 </div>
 <div align="center" id="badges">
   <h1>
-    <a href="https://abdulrahim-portfolio.vercel.app">
+    <a href="https://abdulrahim-portfolio.vercel.app" target = "_blank">
       <img src="https://img.shields.io/badge/My_Portfolio-purple?style=round&logo=vercel&logoColor=white" alt="Vercel Badge"/>
     </a>
        <img  src="https://komarev.com/ghpvc/?username=Abdulrahim2567&style=round&color=brightgreen" alt=""/><br>
-    <a href="linkedin.com/in/abdou-rahim-729411246">
+    <a href="linkedin.com/in/abdou-rahim-729411246" target = "_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=round&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.instagram.com/abdulrahimkibuh/">
+    <a href="https://www.instagram.com/abdulrahimkibuh/" target = "_blank">
       <img src="https://img.shields.io/badge/Instagram-red?style=round&logo=instagram&logoColor=white" alt="Instagrarm Badge"/>
     </a>
-    <a href="https://web.facebook.com/abdou.rahim.923">
+    <a href="https://web.facebook.com/abdou.rahim.923" target = "_blank">
       <img src="https://img.shields.io/badge/Facebook-blue?style=round&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
   </h1>
