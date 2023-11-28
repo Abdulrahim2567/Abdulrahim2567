@@ -6,7 +6,7 @@
     <a href="https://abdulrahim-portfolio.vercel.app">
       <img src="https://img.shields.io/badge/My_Portfolio-purple?style=round&logo=vercel&logoColor=white" alt="Vercel Badge"/>
     </a>
-    <img  src="https://komarev.com/ghpvc/?username=Abdulrahim2567&style=round&color=brightgreen" alt=""/><br>
+    <img  src="https://komarev.com/ghpvc/?username=Abdulrahim2567&style=round&color=brightgreen" alt="Avatar"/><br>
     <a href="https://www.linkedin.com/in/abdou-rahim-729411246">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=round&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -18,7 +18,7 @@
     </a>
   </h1>
    <div  id="intro" align="center">
-      Hi there, I'm Abdou Rahim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br> a passionate web developer with a love for crafting seamless user experiences. My expertise in front-end and back-end development enables me to create modern and efficient web applications. I thrive on challenges and enjoy collaborating with diverse teams to bring innovative projects to life. Let's connect and explore how I can contribute to your next web development endeavor..
+      Hi there, I'm Abdou Rahim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br> a passionate web developer with a love for crafting seamless user experiences. My expertise in front-end and back-end development enables me to create modern and efficient web applications. I thrive on challenges and enjoy collaborating with diverse teams to bring innovative projects to life. Let's connect and explore how I can contribute to your next web development endeavor.
     </div>
 </div>
 <h2> 📊 STATS</h2>
